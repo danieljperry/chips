@@ -1,0 +1,49 @@
+CHIP Number   | < Creator must leave this blank. Editor will assign a number.>
+:-------------|:----
+Title         | Chialisp Demo Puzzle
+Description   | Description of puzzle goes here
+Author        | put my github here
+Editor        | < Creator must leave this blank. Editor will be assigned.>
+Comments-URI  | < Creator must leave this blank. Editor will assign a URI.>
+Status        | < Creator must leave this blank. Editor will assign a status.>
+Category      | Informational
+Sub-Category  | Chialisp Puzzle
+Created       | 2024-02-20
+Requires      | None
+Replaces      | None
+Superseded-By | None
+
+## Abstract
+Give a single-paragraph description of your proposal. The abstract should stand on its own -- someone who reads it should be able to understand the gist of your proposal without reading anything else.
+
+## Motivation
+
+Put actual text here.
+
+## Backwards Compatibility
+
+
+## Rationale
+
+
+## Specification
+
+Function desctions, etc
+
+## Test Cases
+
+
+## Reference Implementation
+
+Put puzzle code here.
+
+## Security
+
+
+## Additional Assets
+
+## Copyright
+Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+
+
+
